@@ -34,4 +34,6 @@
 ## 2026-05-21 — セッション2
 
 - PROGRESS.md を更新（Phase 1 完了記録）
+- config.json の mode を `test` → `biweekly`（過去14日分）に変更
+- CLAUDE.md に mode 説明表・Phase 1 完了チェックを追記
 - 次フェーズ: Phase 2（Gmail下書き作成）

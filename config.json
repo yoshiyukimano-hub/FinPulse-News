@@ -1,6 +1,6 @@
 {
-  "_comment": "mode: 'test'=全件取得 / 'weekly'=過去7日分のみ",
-  "mode": "test",
+  "_comment": "mode: 'test'=全件取得 / 'weekly'=過去7日分のみ / 'biweekly'=過去14日分のみ",
+  "mode": "biweekly",
 
   "institutions": [
     {
